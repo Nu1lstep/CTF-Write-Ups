@@ -13,9 +13,12 @@ Network Operations & Systems Security student focused on hands-on lab environmen
 - CTF Challenge: DragonBall-Z
 - CTF Challenge: Aliens R Real (Custom)
 
-## Certifications and certificates of copmletion
+## Certifications and certificates of completion
 - TestOut Linux Pro
 - TestOut PC Pro
 - TCM Practical Ethical Hacking certificate of completion.
 - DataCamp Intruduction to Bash scripting.
 - DataCamp Introduction to Shell.
+
+## Notes
+- Both of the files are in the .docx format
