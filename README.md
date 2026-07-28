@@ -1,4 +1,4 @@
-# Alexander Shudrya – Cybersecurity Portfolio
+# Alex Shudrya – Cybersecurity Portfolio
 
 Network Operations & Systems Security student focused on hands-on lab environments, offensive security practice, and vulnerability analysis.
 
