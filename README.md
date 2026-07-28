@@ -21,4 +21,4 @@ Network Operations & Systems Security student focused on hands-on lab environmen
 - DataCamp Introduction to Shell.
 
 ## Notes
-- Both of the files are in the .docx format
+- Both of the files are in the .pdf format
