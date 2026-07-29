@@ -14,6 +14,7 @@ Network Operations & Systems Security student focused on hands-on lab environmen
 - CTF Challenge: Aliens R Real (Custom)
 
 ## Certifications and certificates of completion
+- Security + (in progress...)
 - TestOut Linux Pro
 - TestOut PC Pro
 - TCM Practical Ethical Hacking certificate of completion.
