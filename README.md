@@ -6,7 +6,7 @@ enumeration, initial access, privilege escalation, and the mitigation
 that would have stopped it.
 
 These are practice machines, not production systems or authorized
-engagements. NOSS AAT grad (Clover Park), studying for Security+.
+engagements. Created by a NOSS AAT grad from Clover Park college, studying for Security+.
 
 ## Write-ups
 - Dragon Ball Z - SUID abuse (mawk) via a password left in a web-exposed notes file
