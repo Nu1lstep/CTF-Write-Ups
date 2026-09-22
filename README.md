@@ -1,25 +1,13 @@
-# Alex Shudrya – Cybersecurity Portfolio
+# CTF Write-Ups
 
-Network Operations & Systems Security student focused on hands-on lab environments, offensive security practice, and vulnerability analysis.
+Boot-to-root walkthroughs of intentionally vulnerable VMs I ran in an
+isolated home lab (VirtualBox, Kali Linux). Each one covers recon,
+enumeration, initial access, privilege escalation, and the mitigation
+that would have stopped it.
 
-## Focus Areas
-- Active Directory & Windows environments
-- Linux system administration
-- Network reconnaissance & enumeration
-- Privilege escalation fundamentals
-- CTF-based attack simulation
+These are practice machines, not production systems or authorized
+engagements. NOSS AAT grad (Clover Park), studying for Security+.
 
-## Projects
-- CTF Challenge: DragonBall-Z
-- CTF Challenge: Aliens R Real (Custom)
-
-## Certifications and certificates of completion
-- Security + (in progress...)
-- TestOut Linux Pro
-- TestOut PC Pro
-- TCM Practical Ethical Hacking certificate of completion.
-- DataCamp Intruduction to Bash scripting.
-- DataCamp Introduction to Shell.
-
-## Notes
-- Both of the files are in the .pdf format
+## Write-ups
+- Dragon Ball Z - SUID abuse (mawk) via a password left in a web-exposed notes file
+- Aliens R Real - command injection to reverse shell, then SUID escalation (date, cpulimit)
