@@ -1,7 +1,7 @@
 # CTF Write-Ups
 
 Boot-to-root walkthroughs of intentionally vulnerable VMs I ran in an
-isolated home lab (VirtualBox, Kali Linux). Each one covers recon,
+isolated college labs (VirtualBox, Hyper-V, Kali Linux). Each one covers recon,
 enumeration, initial access, privilege escalation, and the mitigation
 that would have stopped it.
 
